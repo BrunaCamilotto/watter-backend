@@ -1,0 +1,16 @@
+{
+    "name": "watter-backend",
+    "version": "0.0.1",
+    "main": "src/main.js",
+    "type": "module",
+    "scripts": {
+      	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Bruna Camilotto",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+		"express": "^4.21.2",
+		"mqtt": "^5.10.4"
+    }
+}
